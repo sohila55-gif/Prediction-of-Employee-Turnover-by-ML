@@ -36,5 +36,6 @@ Model Training:
 
 • Hyperparameter tuning.
 
-Model Output
+Model Output:
+
 • Save the final model for future predictions.
